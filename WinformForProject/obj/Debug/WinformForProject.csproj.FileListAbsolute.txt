@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\WinformForProject\WinformForProject\bin\Debug\WinformForProject.exe.config
+C:\Users\HP\source\repos\WinformForProject\WinformForProject\bin\Debug\WinformForProject.exe
+C:\Users\HP\source\repos\WinformForProject\WinformForProject\bin\Debug\WinformForProject.pdb
+C:\Users\HP\source\repos\WinformForProject\WinformForProject\obj\Debug\WinformForProject.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WinformForProject\WinformForProject\obj\Debug\WinformForProject.Form1.resources
+C:\Users\HP\source\repos\WinformForProject\WinformForProject\obj\Debug\WinformForProject.Properties.Resources.resources
+C:\Users\HP\source\repos\WinformForProject\WinformForProject\obj\Debug\WinformForProject.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\WinformForProject\WinformForProject\obj\Debug\WinformForProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WinformForProject\WinformForProject\obj\Debug\WinformForProject.exe
+C:\Users\HP\source\repos\WinformForProject\WinformForProject\obj\Debug\WinformForProject.pdb
+C:\Users\HP\source\repos\WinformForProject\WinformForProject\obj\Debug\WinformForProject.Formthanhtoan.resources
+C:\Users\HP\source\repos\WinformForProject\WinformForProject\obj\Debug\WinformForProject.Formbaocao.resources

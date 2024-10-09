@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\WinformForProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|C:\\Users\\HP\\source\\repos\\WinformForProject\\winformforproject\\formbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|solutionrelative:winformforproject\\formbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|C:\\Users\\HP\\source\\repos\\WinformForProject\\winformforproject\\formbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|solutionrelative:winformforproject\\formbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|c:\\users\\hp\\source\\repos\\winformforproject\\winformforproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|solutionrelative:winformforproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|C:\\Users\\HP\\source\\repos\\WinformForProject\\winformforproject\\formthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|solutionrelative:winformforproject\\formthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|C:\\Users\\HP\\source\\repos\\WinformForProject\\winformforproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|solutionrelative:winformforproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|C:\\Users\\HP\\source\\repos\\WinformForProject\\winformforproject\\formthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|solutionrelative:winformforproject\\formthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|C:\\Users\\HP\\source\\repos\\WinformForProject\\winformforproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|solutionrelative:winformforproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|C:\\Users\\HP\\source\\repos\\WinformForProject\\winformforproject\\formthanhtoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|solutionrelative:winformforproject\\formthanhtoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|C:\\Users\\HP\\source\\repos\\WinformForProject\\winformforproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770A9725-080B-4182-953A-ABC3D1C6375E}|WinformForProject\\WinformForProject.csproj|solutionrelative:winformforproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Form1.cs",
+              "RelativeDocumentMoniker": "WinformForProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Form1.cs",
+              "RelativeToolTip": "WinformForProject\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:43:59.654Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinformForProject\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Form1.Designer.cs",
+              "RelativeToolTip": "WinformForProject\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:47:30.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Formthanhtoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Formthanhtoan.cs",
+              "RelativeDocumentMoniker": "WinformForProject\\Formthanhtoan.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Formthanhtoan.cs [Design]",
+              "RelativeToolTip": "WinformForProject\\Formthanhtoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:15:52.496Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Form1.cs",
+              "RelativeDocumentMoniker": "WinformForProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Form1.cs [Design]",
+              "RelativeToolTip": "WinformForProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:25:58.116Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formbaocao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Formbaocao.cs",
+              "RelativeDocumentMoniker": "WinformForProject\\Formbaocao.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Formbaocao.cs [Design]",
+              "RelativeToolTip": "WinformForProject\\Formbaocao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:43:47.855Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formbaocao.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Formbaocao.cs",
+              "RelativeDocumentMoniker": "WinformForProject\\Formbaocao.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Formbaocao.cs",
+              "RelativeToolTip": "WinformForProject\\Formbaocao.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:47:31.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Formthanhtoan.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Formthanhtoan.cs",
+              "RelativeDocumentMoniker": "WinformForProject\\Formthanhtoan.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Formthanhtoan.cs",
+              "RelativeToolTip": "WinformForProject\\Formthanhtoan.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:55:18.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Formthanhtoan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Formthanhtoan.Designer.cs",
+              "RelativeDocumentMoniker": "WinformForProject\\Formthanhtoan.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Formthanhtoan.Designer.cs",
+              "RelativeToolTip": "WinformForProject\\Formthanhtoan.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:28:25.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Program.cs",
+              "RelativeDocumentMoniker": "WinformForProject\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WinformForProject\\WinformForProject\\Program.cs",
+              "RelativeToolTip": "WinformForProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:47:38.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
